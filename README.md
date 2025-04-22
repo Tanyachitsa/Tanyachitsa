@@ -1,4 +1,4 @@
-<h2>Hi there! 👋🏾 Im Thelma</h2>
+<h2>Hi there! 👋🏾 Im Thelma or Tanya</h2>
 # 💫 About Me:<br/>
 - 🎓 Graduated with a degree in **Pharmaceutical Science**, now pursuing my passion for **Frontend Development**.<br>- 🌱 I'm currently learning more about advanced concepts in **React** and building full-stack applications.<br>- 💻 I'm passionate about building beautiful, user-friendly interfaces and seamless web experiences.<br>- 👀 I’m currently working on **Alexander House**, a private members club website built with **React** and **Vite**. It will include an events booking system, authentication, and an admin panel using **Firebase**.<br><hr/>📝 Fun Facts<br>-I’ve traveled to 11 countries and love exploring new cultures and cuisines—there’s always something exciting to discover in the world!<br>-I’m a foodie—I enjoy cooking new recipes and experimenting with different cuisines, especially Asian cuisine.
 
